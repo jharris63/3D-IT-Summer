@@ -42,6 +42,14 @@ public class VideoManager : MonoBehaviour {
                 ScreenCanvas.SetActive(false);
             }
         }
+
+        if(vid.isPlaying == false)
+        {
+            VideoPlayer.SetActive(false);
+            ScreenCanvas.SetActive(true);
+            Redical.SetActive(true);
+            rend.material.color = ScreenColorDone;
+        }
     }
 
     public void Replay()
