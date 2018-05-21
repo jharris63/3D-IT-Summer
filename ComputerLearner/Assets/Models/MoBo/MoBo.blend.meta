@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: d763520c1fe1fa14386a2ef3e5677dd5
+timeCreated: 1493839447
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cube_008
+    100018: Cube_009
+    100020: Cube_010
+    100022: Cube_011
+    100024: //RootNode
+    100026: Cube_012
+    100028: Cube_013
+    100030: Cube_014
+    100032: Cube_015
+    100034: Cube_016
+    100036: Cube_017
+    100038: Cube_018
+    100040: Cube_019
+    100042: Cube_020
+    100044: Cylinder
+    100046: Cylinder_001
+    100048: Cylinder_002
+    100050: Cylinder_003
+    100052: Cylinder_004
+    100054: Cylinder_005
+    100056: Cylinder_006
+    100058: Cylinder_007
+    100060: Cylinder_008
+    100062: Cylinder_009
+    100064: Cylinder_010
+    100066: Cylinder_011
+    100068: Cylinder_012
+    100070: Cylinder_013
+    100072: Cylinder_014
+    100074: Cylinder_015
+    100076: Cube_021
+    100078: Cube_022
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cube_008
+    400018: Cube_009
+    400020: Cube_010
+    400022: Cube_011
+    400024: //RootNode
+    400026: Cube_012
+    400028: Cube_013
+    400030: Cube_014
+    400032: Cube_015
+    400034: Cube_016
+    400036: Cube_017
+    400038: Cube_018
+    400040: Cube_019
+    400042: Cube_020
+    400044: Cylinder
+    400046: Cylinder_001
+    400048: Cylinder_002
+    400050: Cylinder_003
+    400052: Cylinder_004
+    400054: Cylinder_005
+    400056: Cylinder_006
+    400058: Cylinder_007
+    400060: Cylinder_008
+    400062: Cylinder_009
+    400064: Cylinder_010
+    400066: Cylinder_011
+    400068: Cylinder_012
+    400070: Cylinder_013
+    400072: Cylinder_014
+    400074: Cylinder_015
+    400076: Cube_021
+    400078: Cube_022
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Cube_010
+    2300022: Cube_011
+    2300024: Cube_012
+    2300026: Cube_013
+    2300028: Cube_014
+    2300030: Cube_015
+    2300032: Cube_016
+    2300034: Cube_017
+    2300036: Cube_018
+    2300038: Cube_019
+    2300040: Cube_020
+    2300042: Cylinder
+    2300044: Cylinder_001
+    2300046: Cylinder_002
+    2300048: Cylinder_003
+    2300050: Cylinder_004
+    2300052: Cylinder_005
+    2300054: Cylinder_006
+    2300056: Cylinder_007
+    2300058: Cylinder_008
+    2300060: Cylinder_009
+    2300062: Cylinder_010
+    2300064: Cylinder_011
+    2300066: Cylinder_012
+    2300068: Cylinder_013
+    2300070: Cylinder_014
+    2300072: Cylinder_015
+    2300074: Cube_021
+    2300076: Cube_022
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Cube_010
+    3300022: Cube_011
+    3300024: Cube_012
+    3300026: Cube_013
+    3300028: Cube_014
+    3300030: Cube_015
+    3300032: Cube_016
+    3300034: Cube_017
+    3300036: Cube_018
+    3300038: Cube_019
+    3300040: Cube_020
+    3300042: Cylinder
+    3300044: Cylinder_001
+    3300046: Cylinder_002
+    3300048: Cylinder_003
+    3300050: Cylinder_004
+    3300052: Cylinder_005
+    3300054: Cylinder_006
+    3300056: Cylinder_007
+    3300058: Cylinder_008
+    3300060: Cylinder_009
+    3300062: Cylinder_010
+    3300064: Cylinder_011
+    3300066: Cylinder_012
+    3300068: Cylinder_013
+    3300070: Cylinder_014
+    3300072: Cylinder_015
+    3300074: Cube_021
+    3300076: Cube_022
+    4300000: Cube_011
+    4300002: Cube_010
+    4300004: Cube_008
+    4300006: Cube_009
+    4300008: Cube_007
+    4300010: Cube_006
+    4300012: Cube_005
+    4300014: Cube_004
+    4300016: Cube_003
+    4300018: Cube_002
+    4300020: Cube_001
+    4300022: Cube
+    4300024: Cube_012
+    4300026: Cube_013
+    4300028: Cylinder_001
+    4300030: Cylinder
+    4300032: Cube_020
+    4300034: Cube_019
+    4300036: Cube_018
+    4300038: Cube_017
+    4300040: Cube_016
+    4300042: Cube_015
+    4300044: Cube_014
+    4300046: Cylinder_002
+    4300048: Cylinder_011
+    4300050: Cylinder_010
+    4300052: Cylinder_009
+    4300054: Cylinder_008
+    4300056: Cylinder_007
+    4300058: Cylinder_006
+    4300060: Cylinder_005
+    4300062: Cylinder_004
+    4300064: Cylinder_003
+    4300066: Cylinder_012
+    4300068: Cylinder_015
+    4300070: Cylinder_014
+    4300072: Cylinder_013
+    4300074: Cube_021
+    4300076: Cube_022
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 651cda54bfc384142856fd7ec186f195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: caa40d601de5b0c4ab108249c18185e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: ebd7c11ff30c8854ab1585c9b4f4e3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: de2dff037a0e1594583cf2dfe3186f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 02fe5e93ad16cbd47bbcb3638264e650, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
